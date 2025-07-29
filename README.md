@@ -31,7 +31,7 @@ BriefBuddy helps agencies, freelancers, and product teams kick off projects with
 ## 🛠 Tech Stack
 
 - Frontend: **Next.js**, **Tailwind CSS**  
-- Backend (future-ready): **OpenAI**, **API Routes**  
+- Backend (future-ready): **Gemini**, **API Routes**  
 - Hosting: **Vercel**  
 - Ready to plug in backend & persistence (e.g., Supabase, Firebase)
 
